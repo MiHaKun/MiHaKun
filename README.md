@@ -5,7 +5,7 @@
 
 # Profile
 - 👋 Hi, I’m 米哈
-- ✈️ Expert of Telegram @MrMiHa
+- ✈️ Expert of Telegram [@MrMiHa](https://t.me/MrMiHa)
 - 🔗 https://miha.uk
 
 # 📊GitHub Stats :
